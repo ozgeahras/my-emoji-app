@@ -54,7 +54,7 @@ npm run start
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ozgeahras/my-emoji-app/blob/main/images/screenshot.png)
+![App Screenshot](https://github.com/ozgeahras/my-emoji-app/blob/master/screenshot.png)
 
 ## About Me
 
